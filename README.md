@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patrick-kox
 - 👀 I’m interested in Linux and programming
-- 🌱 I’m currently learning C/C++ Qt6
+- 🌱 I’m currently learning C/C++/x86 Assembly
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
